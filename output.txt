@@ -1,0 +1,14 @@
+?- santasStable.
+
+Area    Reindeer     Elf                 Toys
+----    --------     ---                 ----
+1       Blitzen      Wunorse Openslae      14
+2       Dasher       Shinny Upatree         9
+3       Rudolf       Alabaster Snowball    15
+4       Comet        Bushy Evergreen       12
+5       Prancer      Pepper Minstix        10
+6       Vixen        Sugarplum Mary         7
+true 
+false.
+
+?- 
